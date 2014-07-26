@@ -35,7 +35,7 @@ taille = float(input("Entrez votre taille : "))     # pour créer un réel
 input()
 print(type(nom))
 print(type(age))
-input()
+
 
 
 # INSTRUCTION CONDITIONNELLE
