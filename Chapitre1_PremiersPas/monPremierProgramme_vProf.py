@@ -29,7 +29,7 @@ input()
 
 
 # SAISIE DE VARIABLES
-nom = input("Quel est votre pr�nom : ")             # pour cr�er une chaine de caract�res
+nom = input("Quel est votre prénom : ")             # pour cr�er une chaine de caract�res
 age = int(input("Entrez votre age : "))             # pour cr�er un entier
 taille = float(input("Entrez votre taille : "))     # pour cr�er un r�el
 input()
@@ -40,16 +40,16 @@ print(type(age))
 
 # INSTRUCTION CONDITIONNELLE
 if (age>=18) :
-    print ("Vous �tes majeur.\nVous pouvez entrer")
+    print ("Vous êtes majeur.\nVous pouvez entrer")
 else :
-    print ("Vous �tes encore trop jeune pour entrer.")
+    print ("Vous êtes encore trop jeune pour entrer.")
     print ("Il faut encore attendre",18-age,"ans.")
 input()
 
 
 # BOUCLE ITERATIVE POUR
 for i in range(1,11):                          # Attention boucle de 1 à 10, le dernier entier n'est pas atteint
-    print (i,"multipli� par 9 donne",9*i)
+    print (i,"multiplié par 9 donne",9*i)
 input()
 
 
