@@ -1,0 +1,80 @@
+html {
+	margin: 5%;
+	background: url(Fond.png) repeat;
+}
+
+
+body {
+	background-color: silver;
+	font: 16px "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+}
+
+
+::selection { background: #F68DC1; }
+
+
+h1,h2,h3,h4,h5,h6 { font-family: "Trebuchet MS", Baskerville, serif; }
+
+
+h1 {
+	color: #c10117;
+	font-size: 3em;
+	padding-top: 10px;
+	border-bottom: 4px solid #c10117;
+}
+
+
+h2 {
+	font-size: 23px;
+	color: #005cff;
+	text-decoration: underline;
+}
+
+
+p { font-size: 14px;  }
+
+
+a {	color: #ffffff; }
+
+
+a:hover {
+	color: #931515;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+a:visited{ color: #1CBABC; } 
+
+
+
+
+
+
+
+
+#vie{
+	text-align: center;
+	border-style: solid;
+	border-color: #152883;
+}
+
+.bio {
+	background-color: #f0c5c5;
+	margin: 20px;
+	
+}
+
+#recompenses {
+	background-color: #6ab6e0;
+	margin: 20px;
+}
+
+
+
+
+
+
+
+
+
