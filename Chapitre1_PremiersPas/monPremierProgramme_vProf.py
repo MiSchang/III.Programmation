@@ -48,7 +48,7 @@ input()
 
 
 # BOUCLE ITERATIVE POUR
-for i in range(1,11):                          # Attention boucle de 1 � 10, le dernier entier n'est pas atteint
+for i in range(1,11):                          # Attention boucle de 1 à 10, le dernier entier n'est pas atteint
     print (i,"multipli� par 9 donne",9*i)
 input()
 
@@ -59,3 +59,4 @@ while (a<5):
     print ("Dans la boucle, a =",a)
     a = a+1
 print ("Une fois sorti de la boucle, a =",a)
+input()
