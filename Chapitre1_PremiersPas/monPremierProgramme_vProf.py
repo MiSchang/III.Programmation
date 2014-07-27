@@ -29,9 +29,9 @@ input()
 
 
 # SAISIE DE VARIABLES
-nom = input("Quel est votre prénom : ")             # pour cr�er une chaine de caract�res
-age = int(input("Entrez votre age : "))             # pour cr�er un entier
-taille = float(input("Entrez votre taille : "))     # pour cr�er un r�el
+nom = input("Quel est votre prénom : ")             # pour créer une chaine de caractères
+age = int(input("Entrez votre age : "))             # pour créer un entier
+taille = float(input("Entrez votre taille : "))     # pour créer un réel
 input()
 print(type(nom))
 print(type(age))
